@@ -1,2 +1,6 @@
-The video pretty much explains it all:
-https://www.youtube.com/watch?v=c96w1JS28AY
+Designed a License plate Recognition system(OCR) which can have multiple applications.
+Examples: Toll tax collection system, Parking lot system, vehicle theft identification 
+
+This system firstly converts the captured image to a binary image for better optical character recognition
+Then used best suited Machine learning model for better accuracy and result
+
